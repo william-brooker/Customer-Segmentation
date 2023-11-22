@@ -27,6 +27,9 @@ Here are some questions to ponder as we delve into the business problem and expl
 
 3.How should the data be configured (e.g., filtered, aggregated) to prevent a logically flawed segmentation analysis?
 
+View my Notebook where I use Python to conduct some machine learning based clustering.
+https://nbviewer.org/github/william-brooker/Customer-Segmentation/blob/main/TravelTide%20Clustering%20William%20Brooker.ipynb
+
 Tableau Workbook; For explanations and visualisations around the metrics we used to measure consumer behaviours.
 https://public.tableau.com/views/TravelTideViz/Story1?:language=en-GB&:display_count=n&:origin=viz_share_link 
 
